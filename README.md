@@ -1,6 +1,7 @@
 # Rubik's Cube Solver
 
-Solving 3 * 3 Rubik's Cube using Deep Q-Learning
+Solving 3 * 3 Rubik's Cube using [Deep
+Q-Learning](https://arxiv.org/pdf/1312.5602v1.pdf)
 
 ## Install
 
